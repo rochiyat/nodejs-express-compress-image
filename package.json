@@ -1,7 +1,7 @@
 {
-  "name": "rename-files-infolder-nodejs",
+  "name": "nodejs-express-compress-image",
   "version": "1.0.0",
-  "description": "Rename Files in Folder menggunakan nodejs. Rename banyak file didalam path tertentu agar tidak manual satu per satu mengubahnya.",
+  "description": "Resize image in folder, move files with grather than size, list files, list folder & files",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baitunacode/rename-files-infolder-nodejs.git"
+    "url": "git+https://github.com/rochiyat/nodejs-express-compress-image.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/baitunacode/rename-files-infolder-nodejs/issues"
+    "url": "https://github.com/rochiyat/nodejs-express-compress-image/issues"
   },
-  "homepage": "https://github.com/baitunacode/rename-files-infolder-nodejs#readme",
+  "homepage": "https://github.com/rochiyat/nodejs-express-compress-image#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
     "express": "^4.17.3",

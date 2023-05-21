@@ -9,6 +9,7 @@
 ## Running Project
 - Clone repo github
 - Install library dependency with command _npm install_
+- Install nodemon (optional) with command _npm install nodemon --save--dev_
 - Running application with command _npm start_
 
 ## Test Project With Postman or Similar or Command Line
