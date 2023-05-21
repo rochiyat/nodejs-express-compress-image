@@ -1,0 +1,31 @@
+{
+  "name": "rename-files-infolder-nodejs",
+  "version": "1.0.0",
+  "description": "Rename Files in Folder menggunakan nodejs. Rename banyak file didalam path tertentu agar tidak manual satu per satu mengubahnya.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baitunacode/rename-files-infolder-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baitunacode/rename-files-infolder-nodejs/issues"
+  },
+  "homepage": "https://github.com/baitunacode/rename-files-infolder-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "jimp": "^0.16.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.15"
+  }
+}
