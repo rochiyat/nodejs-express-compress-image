@@ -21,11 +21,8 @@
   "dependencies": {
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
-    "ffmpeg": "0.0.4",
-    "fluent-ffmpeg": "^2.1.2",
     "jimp": "^0.16.1",
     "lodash": "^4.17.21",
-    "moment": "^2.29.4",
-    "nodemon": "^2.0.15"
+    "moment": "^2.29.4"
   }
 }
